@@ -87,3 +87,4 @@ Launch the frontend app locally.
 
 # NOTE
 Please note that I didn't use TRAVIS for the CI. I used git instead for the cost implication Travis has.
+I have also taken time to view videos on YouTube and read blogs and workarounds. Special thank you for Ugochukwu Ukwuegbu MEWENEMESSE Essodina Jean-Pascal. 
