@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: udagram-env
+data:
+  # property-like keys; each key maps to a simple value
+  POSTGRES_HOST: samdb.cr9hle1hdlq1.us-east-1.rds.amazonaws.com
+  POSTGRES_DB: postgres
+  AWS_BUCKET: mybucket-102327046773-dev
+  AWS_REGION: us-east-1
+  AWS_PROFILE: default
+  JWT_SECRET: testing
+  URL: http://localhost:8100
